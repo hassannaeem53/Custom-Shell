@@ -1,6 +1,7 @@
 # Custom-Shell
 This shell is developed on Ubuntu OS using basic OS concepts like System Calls(Fork, execvp, etc) , Inter-process Communication, Multi-threading and Input Output Redirection.
 
+The shell was assigned as multiple assignments in semester 4 of BS-CS Program(FAST-NUCES LHR) for Operating System Course.The evaluation was done by Sir Saad Farooq.
 
 ### CodeFile 1 involves the following functionalities
 
