@@ -7,7 +7,7 @@
 #include<iostream>
 #include <string>
 using namespace std;
-
+//Muhammad Hassan Naeem
 
 
 char** token(char* tempp, int& wordcount) {   //THIS FUNCTION TOKENIZES USER QUERY AND RETURN A 2D ARRRAY WITH WORDCOUNT(NO OF WORDS)
